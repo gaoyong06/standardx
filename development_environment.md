@@ -283,3 +283,7 @@ curl -X GET http://localhost:9080/v1/users \
 
 apisix 本地地址
 http://127.0.0.1:9180/ui
+
+rocketmq 本地地址
+http://127.0.0.1:8080
+
