@@ -287,3 +287,7 @@ http://127.0.0.1:9180/ui
 rocketmq 本地地址
 http://127.0.0.1:8080
 
+elasticsearch 本地地址
+http://127.0.0.1:9200
+
+
